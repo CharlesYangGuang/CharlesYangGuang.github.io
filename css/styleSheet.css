@@ -1,0 +1,14 @@
+body{
+    background-color: #EB2222;
+}
+header{
+   /* background-color: #47C943;*/
+    height: 80px;
+    padding: 20px;
+}
+#title{
+    background-color: #CF1515
+}
+.title{
+    background-color: #FF8833
+}
